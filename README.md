@@ -1,1 +1,1 @@
-<img src="https://miro.medium.com/v2/resize:fit:828/format:webp/1*kcCwR0tgMWylgAa2aP1Hrw.gif"/>
+<img src="https://media.tenor.com/whgQwNlVvNkAAAAi/xero-code.gif"/>
