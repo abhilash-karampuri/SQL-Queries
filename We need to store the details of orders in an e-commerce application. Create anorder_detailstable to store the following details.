@@ -1,0 +1,7 @@
+CREATE TABLE order_details(
+  order_id Integer,
+  customer_id Integer,
+  order_datetime DATETIME,
+  shipped_datetime DATETIME,
+  total_amount FLOAT
+);
