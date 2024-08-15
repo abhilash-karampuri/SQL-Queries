@@ -1,0 +1,8 @@
+CREATE TABLE customer(
+  customer_id integer,
+  first_name VARCHAR(200),
+  last_name VARCHAR(200),
+  date_of_birth date,
+  address TEXT,
+  phone_number INTEGER
+);
